@@ -1,4 +1,4 @@
-# general rule for shifted vs truncated		! UFF + Dreiding, chejj 09/2022
+# general rule for shifted vs truncated	
 truncated
 # general rule tailcorrections
 yes 
@@ -132,7 +132,7 @@ He            lennard-jones    10.9      2.64
 Ar            lennard-jones   119.8      3.34
 Kr            lennard-jones   166.4      3.636
 Xe            lennard-jones   221.0      4.1
-C_c2h2        lennard-jones   57.875     3.80  (see Nanomaterials 2022, 12, 869)    (51.22     3.40: not right in Zhong and Yang's 2018 AIChE papers)
+C_c2h2        lennard-jones   57.875     3.80 
 H_c2h2        lennard-jones    0.0       0.0 
 # general mixing rule for Lennard-Jones
 Lorentz-Berthelot
