@@ -1,0 +1,10 @@
+# rules to overwrite
+0
+# number of defined interactions
+3
+# type      type2       interction
+   Cu_       O_co2      lennard-jones  175.961   2.617 
+   Cu_       C_C2H2     lennard-jones  563.255   2.4646 
+   Cu_       CH4_sp3    morse          598.8413  1.72   3.15   
+# mixing rules to overwrite
+0

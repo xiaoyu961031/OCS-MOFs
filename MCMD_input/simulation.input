@@ -1,0 +1,52 @@
+SimulationType                MonteCarlo
+NumberOfCycles                10000
+NumberOfInitializationCycles  10000
+PrintEvery                    2000
+RestartFile                   no
+
+ContinueAfterCrash            no
+WriteBinaryRestartFileEvery   2000
+
+Movies                        yes
+WriteMoviesEvery              2000
+
+ComputeRDF                    yes
+WriteRDFEvery                 2000
+
+Forcefield                    MOF 
+RemoveAtomNumberCodeFromLabel yes 
+UseChargesFromCIFFile         yes 
+ChargeMethod                  Ewald 
+EwaldPrecision                1e-6 
+CutOff                        12.5 
+Framework 0 
+FrameworkName                 0
+InputFileType cif
+UnitCells 1 1 1
+HeliumVoidFraction            0.858855
+
+ExternalTemperature           298
+ExternalPressure              *
+
+Component 0 MoleculeName             CO2
+MolFraction                       0.5
+TranslationProbability            1.0
+RotationProbability               1.0
+RegrowProbability                 1.0
+ReinsertionProbability            1.0
+SwapProbability                   1.0
+IdentityChangeProbability         1.0
+NumberOfIdentityChanges           2
+IdentityChangesList               0 1
+CreateNumberOfMolecules    0
+Component 1 MoleculeName             methane
+MolFraction                       0.5
+TranslationProbability            1.0
+RotationProbability               1.0
+RegrowProbability                 1.0
+ReinsertionProbability            1.0
+SwapProbability                   1.0
+IdentityChangeProbability         1.0
+NumberOfIdentityChanges           2
+IdentityChangesList               0 1
+CreateNumberOfMolecules    0
