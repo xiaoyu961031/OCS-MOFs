@@ -1,4 +1,4 @@
-# Cross-diversity Machine learning in OCS-MOFs
+# Cross-diversity Machine Learning in OCS-MOFs
 
 Welcome to the repository containing the code to reproduce the optimal models for predicting CO2 uptake and log-scaled CO2/CH4 selectivity in open copper site metal-organic frameworks (OCS-MOFs). This repository is intended to provide an easy and transparent way for researchers to replicate and build upon the findings presented in our study.
 
