@@ -6,4 +6,4 @@ To execute the code, you will need to download the required datasets: log_select
 
 The repository includes scripts for data preprocessing, model training, and evaluation, employing diversity-adaptable machine learning techniques to ensure model robustness across distinct chemical spaces. The models aim to optimize CO2 uptake and selectivity in OCS-MOFs, providing valuable insights into how to design efficient materials for gas separation.
 
-Referencee: The work is now accepted by Journal of Chemical Theory and Computation. Xiaoyu Wu, Rui Zheng and Jianwen Jiang*.	Leveraging Cross-Diversity Machine Learning to Unveil Metal-Organic Frameworks with Open Copper Sites for Biogas Upgrading
+If you use this in your work, please cite our related publication: Xiaoyu Wu, Rui Zheng and Jianwen Jiang*.	Leveraging Cross-Diversity Machine Learning to Unveil Metal-Organic Frameworks with Open Copper Sites for Biogas Upgrading 10.1021/acs.jctc.4c01478
